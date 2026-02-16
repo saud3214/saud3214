@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I’m **Saud**</h1>
+<h3 align="center">AI Developer | ML Enthusiast | Web & Backend Developer</h3>
 
-<!--
-**saud3214/saud3214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,django,flask,fastapi,tailwind,css,html,postgres,mysql,ai" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=saud3214&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saud3214&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saud3214&theme=darkhacker" />
+</p>
+
+---
+
+### 🤖 About Me
+
+- 🔭 I’m currently working on **AI & Web Development Projects**
+- 👯 I’m interested in **Fullstack & Machine Learning**
+- 💬 Ask me about **Python, JavaScript, AI, Backend APIs**
+- 🚀 I love building **real-world apps**
+
+---
+
+### 📌 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/saud3214/your-awesome-ai-project">⚡ Awesome AI Project</a><br>
+  <a href="https://github.com/saud3214/another-cool-project">⚙️ Another Cool Project</a><br>
+  <a href="https://github.com/saud3214/next-level-tool">🚀 Next-Level Tool</a>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat"/></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat"/></a>
+</p>
+
+---
+
+<div align="center">
+  Thank you for visiting my profile! 🚀
+</div>
