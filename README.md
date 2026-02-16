@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I’m **Saud**</h1>
-<h3 align="center">AI Developer | ML Enthusiast | Web & Backend Developer</h3>
+<h3 align="center">AI Developer | Full Stack Developer | Python developer</h3>
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,django,flask,fastapi,tailwind,css,html,postgres,mysql,ai" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,django,fastapi,tailwind,postgres,mysql,ai,nextjs" />
 </p>
 
 ---
@@ -39,20 +39,23 @@
 
 ### 📌 Featured Projects
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/saud3214/your-awesome-ai-project">⚡ Awesome AI Project</a><br>
   <a href="https://github.com/saud3214/another-cool-project">⚙️ Another Cool Project</a><br>
   <a href="https://github.com/saud3214/next-level-tool">🚀 Next-Level Tool</a>
-</p>
+</p> -->
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat"/></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat"/></a>
+  <a href="https://saud-abbasi.vercel.app/">
+  <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white"/>
+</a>
+
+    <a href="https://linkedin.com/in/saud-abbasi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat"/></a>
+  <a href="mailto:abbasisaud8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat"/></a>
 </p>
 
 ---
